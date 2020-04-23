@@ -7,7 +7,7 @@ you into fighting with package updates and dependencies to try to make Tcl/Tk av
 last version of which was 2006. 
 
 We looked back to the 1997 source when they were just beginning to use Tcl/Tk and Autotools Automake etc and managed to
-extricate a simple makefile with no recursion or Tcl/Tk involved. You just follow the installation instructions we provide
+extricate a simple makefile with no recursion or Tcl/Tk involved (using the 2006 c source and dictionary files eventually after proof of concept; that is what we offer here). You just follow the installation instructions we provide
 in the pdf Manual, basically create a working directory in your home directory and make the executable there. Then you make
 a directory in /usr/local/ named WNtight (a tight version of WordNet, if the name is annoying to you, you need to modify 
 the wn.h include file, where the path is hardwired to find the dictionary files in /usr/local/WNtight/dict. It would be
