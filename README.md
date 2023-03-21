@@ -30,7 +30,7 @@ want to check the definition or spelling of a word and type wn "dog" -over (if y
 I give some hints how to explore some of the linguistic information available also at the command line (in the pdf manual).
 
 I organized, edited and consolidated the html documentation from the WordNet 3.0 original package and put it up here as a 
-searchable pdf with outline links. If you want to really understand the WordNet design and implementation, this document
+searchable pdf with outline links (download it and read it on your computer or other device; GitHub no longer displays pdf documents in the browser) . If you want to really understand the WordNet design and implementation, this document
 facilitates that by making all term references instantly accessible with functions, design concepts and file details
 organized together. We omitted discussion of Prolog data files available (of no interest to us). Similarly, we omitted
 discussion of the Tcl/Tk browser application files, since we did not include that functionality. Go to Princeton at
